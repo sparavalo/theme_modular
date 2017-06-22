@@ -1,0 +1,26 @@
+/**
+ * @package		theme_modular
+ * @author		Dusan Sparavalo
+ * @license		http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
+ */
+
+/* Body
+-------------------------*/
+h1, h2, h3, h4, h5, h6 {
+    font-weight:normal;
+}
+.block .content h3 {
+    padding:0;
+}
+a {
+    color: #2C3E50;
+
+}
+a:hover, a:focus {
+    text-decoration: none;
+    outline: none;
+}
+.img-responsive {
+    margin:0 !important;
+}
+
